@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDom from 'react-dom/client';
 import '../src/index.css';
-import Car from './components/Car';
+
+import Garage from './components/Garage';
 
 // const element = <h1>Hello World</h1>;
 
@@ -30,7 +31,7 @@ import Car from './components/Car';
 
 
 const root = ReactDom.createRoot(document.getElementById('root'));
-root.render(<Car />);
+root.render(<Garage />);
  
 
 
