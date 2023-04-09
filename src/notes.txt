@@ -4,3 +4,6 @@ Google - how to upgrade to React 18
 https://www.w3schools.com/react/react_getstarted.asp - index.js file
 
 https://www.w3schools.com/react/react_components.asp - react components in components - w3school
+
+Google - warning each child in a list should have a unique key - https://sentry.io/answers/unique-key-prop/
+https://www.w3schools.com/react/showreact.asp?filename=demo2_react_list1 - https://www.w3schools.com/react/react_lists.asp - rendering a react list using map()

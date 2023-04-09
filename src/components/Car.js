@@ -1,5 +1,5 @@
 function Car(props) {
-    return <h2>Hi, I am {props.color} a Car!!</h2>
+    return <li>Hi, I am {props.color} a {props.brand}!!</li>
 }
 
 export default Car;
