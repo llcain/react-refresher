@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom/client';
+import '../src/index.css';
 import Car from './components/Car';
 
 // const element = <h1>Hello World</h1>;
