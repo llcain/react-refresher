@@ -1,0 +1,5 @@
+Google - warning reactdom.render is no longer supported in react 18 - https://stackoverflow.com/questions/71668256/deprecation-notice-reactdom-render-is-no-longer-supported-in-react-18
+Google - react class component example - https://www.w3schools.com/react/react_render.asp
+Google - how to upgrade to React 18
+https://www.w3schools.com/react/react_getstarted.asp - index.js file
+
